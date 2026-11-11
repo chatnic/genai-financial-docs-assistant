@@ -1,0 +1,26 @@
+{
+  "chunks": 72,
+  "questions": 98,
+  "best_retriever": {
+    "retriever": "bm25",
+    "metadata_filter": true,
+    "recall@1": 0.7364341085271318,
+    "recall@5": 0.9961240310077518,
+    "all_found@5": 0.9767441860465116,
+    "mrr": 0.8775193798449613,
+    "multi_hop_all_found@5": 0.8571428571428571
+  },
+  "no_filter_bm25": {
+    "retriever": "bm25",
+    "metadata_filter": false,
+    "recall@1": 0.7364341085271318,
+    "recall@5": 0.9496124031007751,
+    "all_found@5": 0.9302325581395349,
+    "mrr": 0.8732558139534883,
+    "multi_hop_all_found@5": 0.8571428571428571
+  },
+  "extractive_answer_accuracy": 0.6162790697674418,
+  "extractive_lookup_accuracy": 0.7361111111111112,
+  "abstention_rate_on_unanswerable": 1.0,
+  "false_abstention_rate_on_answerable": 0.0
+}

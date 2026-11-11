@@ -1,0 +1,6 @@
+type,questions,recall_at_5,all_found_at_5,mrr,answer_accuracy,grounded
+comparison,12.0,1.0,1.0,1.0,0.0,1.0
+cross_company,2.0,0.833,0.0,1.0,0.0,1.0
+lookup,72.0,1.0,1.0,0.854,0.736,1.0
+ALL answerable,86.0,0.996,0.977,0.878,0.616,1.0
+unanswerable (abstained),12.0,,,,1.0,

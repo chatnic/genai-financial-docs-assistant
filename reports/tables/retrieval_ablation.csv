@@ -1,0 +1,7 @@
+retriever,metadata_filter,recall@1,recall@5,all_found@5,mrr,multi_hop_all_found@5
+bm25,False,0.736,0.95,0.93,0.873,0.857
+tfidf,False,0.434,0.734,0.686,0.605,0.143
+hybrid,False,0.55,0.903,0.86,0.738,0.571
+bm25,True,0.736,0.996,0.977,0.878,0.857
+tfidf,True,0.434,0.909,0.86,0.644,0.143
+hybrid,True,0.574,0.973,0.93,0.776,0.571

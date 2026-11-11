@@ -1,0 +1,380 @@
+[
+  {
+    "company": "Harborline Financial",
+    "ticker": "HBLF",
+    "industry": "regional bank",
+    "hq": "Portland, Maine",
+    "year": 2024,
+    "ceo": "Marcus Mehta",
+    "cfo": "Wei Chen",
+    "revenue": 2460.0,
+    "revenue_prev": 2342.7,
+    "growth_pct": 5.0,
+    "operating_margin_pct": 30.4,
+    "net_income": 567.6,
+    "segments": {
+      "Consumer Banking": 949.9,
+      "Commercial Banking": 1110.9,
+      "Wealth Management": 399.2
+    },
+    "employees": 6400,
+    "cash": 1285.2,
+    "debt": 2045.9,
+    "buyback": 111.9,
+    "guidance_low": 3.0,
+    "risks": [
+      "interest rates",
+      "catastrophe losses",
+      "talent",
+      "credit quality"
+    ],
+    "customers_k": 3884,
+    "guidance_high": 7.0
+  },
+  {
+    "company": "Harborline Financial",
+    "ticker": "HBLF",
+    "industry": "regional bank",
+    "hq": "Portland, Maine",
+    "year": 2025,
+    "ceo": "Marcus Mehta",
+    "cfo": "Wei Chen",
+    "revenue": 2801.0,
+    "revenue_prev": 2460.0,
+    "growth_pct": 13.9,
+    "operating_margin_pct": 29.1,
+    "net_income": 618.9,
+    "segments": {
+      "Consumer Banking": 707.9,
+      "Commercial Banking": 1029.8,
+      "Wealth Management": 1063.2
+    },
+    "employees": 6887,
+    "cash": 830.8,
+    "debt": 1597.9,
+    "buyback": 78.9,
+    "guidance_low": 2.0,
+    "risks": [
+      "catastrophe losses",
+      "talent",
+      "credit quality",
+      "competition"
+    ],
+    "customers_k": 1929,
+    "guidance_high": 4.0
+  },
+  {
+    "company": "NovaPay Technologies",
+    "ticker": "NVPY",
+    "industry": "payments processor",
+    "hq": "Austin, Texas",
+    "year": 2024,
+    "ceo": "Daniel Lindqvist",
+    "cfo": "Hannah Kowalski",
+    "revenue": 1851.1,
+    "revenue_prev": 1819.0,
+    "growth_pct": 1.8,
+    "operating_margin_pct": 30.7,
+    "net_income": 432.0,
+    "segments": {
+      "Merchant Services": 589.0,
+      "Issuer Processing": 544.0,
+      "Cross-Border Payments": 718.1
+    },
+    "employees": 6383,
+    "cash": 659.9,
+    "debt": 1423.0,
+    "buyback": 15.5,
+    "guidance_low": 2.0,
+    "risks": [
+      "regulation",
+      "third-party vendors",
+      "market volatility",
+      "cybersecurity"
+    ],
+    "customers_k": 2690,
+    "guidance_high": 4.0
+  },
+  {
+    "company": "NovaPay Technologies",
+    "ticker": "NVPY",
+    "industry": "payments processor",
+    "hq": "Austin, Texas",
+    "year": 2025,
+    "ceo": "Daniel Lindqvist",
+    "cfo": "Hannah Kowalski",
+    "revenue": 1951.5,
+    "revenue_prev": 1851.1,
+    "growth_pct": 5.4,
+    "operating_margin_pct": 25.7,
+    "net_income": 380.6,
+    "segments": {
+      "Merchant Services": 446.8,
+      "Issuer Processing": 716.0,
+      "Cross-Border Payments": 788.7
+    },
+    "employees": 6462,
+    "cash": 481.2,
+    "debt": 1187.5,
+    "buyback": 99.9,
+    "guidance_low": 2.0,
+    "risks": [
+      "third-party vendors",
+      "market volatility",
+      "cybersecurity",
+      "talent"
+    ],
+    "customers_k": 1161,
+    "guidance_high": 4.0
+  },
+  {
+    "company": "Crestview Insurance Group",
+    "ticker": "CRVI",
+    "industry": "property and casualty insurer",
+    "hq": "Hartford, Connecticut",
+    "year": 2024,
+    "ceo": "Robert Lindqvist",
+    "cfo": "Tom\u00e1s Kowalski",
+    "revenue": 2975.4,
+    "revenue_prev": 3042.3,
+    "growth_pct": -2.2,
+    "operating_margin_pct": 11.8,
+    "net_income": 265.8,
+    "segments": {
+      "Personal Lines": 1663.6,
+      "Commercial Lines": 1311.8
+    },
+    "employees": 8233,
+    "cash": 1043.7,
+    "debt": 1728.8,
+    "buyback": 53.8,
+    "guidance_low": 5.0,
+    "risks": [
+      "competition",
+      "interest rates",
+      "regulation",
+      "market volatility"
+    ],
+    "customers_k": 1479,
+    "guidance_high": 8.0
+  },
+  {
+    "company": "Crestview Insurance Group",
+    "ticker": "CRVI",
+    "industry": "property and casualty insurer",
+    "hq": "Hartford, Connecticut",
+    "year": 2025,
+    "ceo": "Robert Lindqvist",
+    "cfo": "Tom\u00e1s Kowalski",
+    "revenue": 2908.6,
+    "revenue_prev": 2975.4,
+    "growth_pct": -2.2,
+    "operating_margin_pct": 7.8,
+    "net_income": 172.1,
+    "segments": {
+      "Personal Lines": 1412.5,
+      "Commercial Lines": 1496.0
+    },
+    "employees": 8861,
+    "cash": 1455.6,
+    "debt": 2666.9,
+    "buyback": 78.4,
+    "guidance_low": 3.0,
+    "risks": [
+      "interest rates",
+      "regulation",
+      "market volatility",
+      "cybersecurity"
+    ],
+    "customers_k": 3615,
+    "guidance_high": 5.0
+  },
+  {
+    "company": "Summit Ledger Software",
+    "ticker": "SMLG",
+    "industry": "core banking software provider",
+    "hq": "Columbus, Ohio",
+    "year": 2024,
+    "ceo": "Marcus Chen",
+    "cfo": "Olivia Lindqvist",
+    "revenue": 677.9,
+    "revenue_prev": 624.5,
+    "growth_pct": 8.5,
+    "operating_margin_pct": 31.2,
+    "net_income": 160.7,
+    "segments": {
+      "Subscription": 301.8,
+      "Professional Services": 376.1
+    },
+    "employees": 2194,
+    "cash": 202.3,
+    "debt": 233.6,
+    "buyback": 4.2,
+    "guidance_low": 5.0,
+    "risks": [
+      "credit quality",
+      "third-party vendors",
+      "competition",
+      "catastrophe losses"
+    ],
+    "customers_k": 723,
+    "guidance_high": 9.0
+  },
+  {
+    "company": "Summit Ledger Software",
+    "ticker": "SMLG",
+    "industry": "core banking software provider",
+    "hq": "Columbus, Ohio",
+    "year": 2025,
+    "ceo": "Marcus Chen",
+    "cfo": "Olivia Lindqvist",
+    "revenue": 776.2,
+    "revenue_prev": 677.9,
+    "growth_pct": 14.5,
+    "operating_margin_pct": 30.0,
+    "net_income": 177.1,
+    "segments": {
+      "Subscription": 256.9,
+      "Professional Services": 519.3
+    },
+    "employees": 2233,
+    "cash": 389.8,
+    "debt": 219.5,
+    "buyback": 22.7,
+    "guidance_low": 4.0,
+    "risks": [
+      "third-party vendors",
+      "competition",
+      "catastrophe losses",
+      "regulation"
+    ],
+    "customers_k": 2308,
+    "guidance_high": 8.0
+  },
+  {
+    "company": "Atlas Consumer Lending",
+    "ticker": "ATCL",
+    "industry": "consumer lender",
+    "hq": "Phoenix, Arizona",
+    "year": 2024,
+    "ceo": "Hannah Chen",
+    "cfo": "Samuel Lindqvist",
+    "revenue": 1283.7,
+    "revenue_prev": 1198.8,
+    "growth_pct": 7.1,
+    "operating_margin_pct": 24.9,
+    "net_income": 242.9,
+    "segments": {
+      "Personal Loans": 329.2,
+      "Auto Finance": 495.3,
+      "Credit Cards": 459.1
+    },
+    "employees": 3629,
+    "cash": 325.5,
+    "debt": 304.8,
+    "buyback": 42.7,
+    "guidance_low": 3.0,
+    "risks": [
+      "competition",
+      "third-party vendors",
+      "credit quality",
+      "talent"
+    ],
+    "customers_k": 3327,
+    "guidance_high": 5.0
+  },
+  {
+    "company": "Atlas Consumer Lending",
+    "ticker": "ATCL",
+    "industry": "consumer lender",
+    "hq": "Phoenix, Arizona",
+    "year": 2025,
+    "ceo": "Hannah Chen",
+    "cfo": "Samuel Lindqvist",
+    "revenue": 1439.9,
+    "revenue_prev": 1283.7,
+    "growth_pct": 12.2,
+    "operating_margin_pct": 22.2,
+    "net_income": 242.8,
+    "segments": {
+      "Personal Loans": 709.5,
+      "Auto Finance": 416.0,
+      "Credit Cards": 314.4
+    },
+    "employees": 3503,
+    "cash": 497.9,
+    "debt": 1716.8,
+    "buyback": 77.0,
+    "guidance_low": 5.0,
+    "risks": [
+      "third-party vendors",
+      "credit quality",
+      "talent",
+      "market volatility"
+    ],
+    "customers_k": 3579,
+    "guidance_high": 9.0
+  },
+  {
+    "company": "Pinecrest Wealth Partners",
+    "ticker": "PCWP",
+    "industry": "wealth and asset manager",
+    "hq": "Charlotte, North Carolina",
+    "year": 2024,
+    "ceo": "Marcus Abernathy",
+    "cfo": "Tom\u00e1s Ramirez",
+    "revenue": 864.7,
+    "revenue_prev": 857.7,
+    "growth_pct": 0.8,
+    "operating_margin_pct": 22.2,
+    "net_income": 145.9,
+    "segments": {
+      "Advisory": 631.2,
+      "Asset Management": 233.5
+    },
+    "employees": 4097,
+    "cash": 206.2,
+    "debt": 441.3,
+    "buyback": 40.3,
+    "guidance_low": 7.0,
+    "risks": [
+      "interest rates",
+      "credit quality",
+      "talent",
+      "third-party vendors"
+    ],
+    "customers_k": 2027,
+    "guidance_high": 9.0
+  },
+  {
+    "company": "Pinecrest Wealth Partners",
+    "ticker": "PCWP",
+    "industry": "wealth and asset manager",
+    "hq": "Charlotte, North Carolina",
+    "year": 2025,
+    "ceo": "Marcus Abernathy",
+    "cfo": "Tom\u00e1s Ramirez",
+    "revenue": 855.0,
+    "revenue_prev": 864.7,
+    "growth_pct": -1.1,
+    "operating_margin_pct": 23.2,
+    "net_income": 150.9,
+    "segments": {
+      "Advisory": 499.2,
+      "Asset Management": 355.8
+    },
+    "employees": 4182,
+    "cash": 395.4,
+    "debt": 667.9,
+    "buyback": 10.2,
+    "guidance_low": 6.0,
+    "risks": [
+      "credit quality",
+      "talent",
+      "third-party vendors",
+      "cybersecurity"
+    ],
+    "customers_k": 2968,
+    "guidance_high": 10.0
+  }
+]

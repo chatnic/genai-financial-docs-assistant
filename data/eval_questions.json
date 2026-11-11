@@ -1,0 +1,1182 @@
+[
+  {
+    "qid": "Q001",
+    "type": "lookup",
+    "question": "What was Harborline Financial's total revenue in fiscal 2024?",
+    "answer": "$2.46 billion",
+    "answer_keywords": [
+      "$2.46 billion"
+    ],
+    "gold_sources": [
+      "HBLF_FY2024#management_discussion"
+    ]
+  },
+  {
+    "qid": "Q002",
+    "type": "lookup",
+    "question": "How much revenue did the Wealth Management segment of Harborline Financial generate in fiscal 2024?",
+    "answer": "$399.2 million",
+    "answer_keywords": [
+      "$399.2 million"
+    ],
+    "gold_sources": [
+      "HBLF_FY2024#segment_results"
+    ]
+  },
+  {
+    "qid": "Q003",
+    "type": "lookup",
+    "question": "How much cash and cash equivalents did Harborline Financial have at the end of fiscal 2024?",
+    "answer": "$1.29 billion",
+    "answer_keywords": [
+      "$1.29 billion"
+    ],
+    "gold_sources": [
+      "HBLF_FY2024#liquidity"
+    ]
+  },
+  {
+    "qid": "Q004",
+    "type": "lookup",
+    "question": "What revenue growth range did Harborline Financial guide for fiscal 2025?",
+    "answer": "3% to 7%",
+    "answer_keywords": [
+      "3% to 7%"
+    ],
+    "gold_sources": [
+      "HBLF_FY2024#outlook"
+    ]
+  },
+  {
+    "qid": "Q005",
+    "type": "lookup",
+    "question": "How many employees did Harborline Financial have at the end of fiscal 2024?",
+    "answer": "6,400",
+    "answer_keywords": [
+      "6,400"
+    ],
+    "gold_sources": [
+      "HBLF_FY2024#business_overview"
+    ]
+  },
+  {
+    "qid": "Q006",
+    "type": "lookup",
+    "question": "What did Harborline Financial say about interest rates risk in its fiscal 2024 report?",
+    "answer": "interest rates",
+    "answer_keywords": [
+      "interest rates"
+    ],
+    "gold_sources": [
+      "HBLF_FY2024#risk_factors"
+    ]
+  },
+  {
+    "qid": "Q007",
+    "type": "lookup",
+    "question": "What was Harborline Financial's total revenue in fiscal 2025?",
+    "answer": "$2.80 billion",
+    "answer_keywords": [
+      "$2.80 billion"
+    ],
+    "gold_sources": [
+      "HBLF_FY2025#management_discussion"
+    ]
+  },
+  {
+    "qid": "Q008",
+    "type": "lookup",
+    "question": "How much revenue did the Commercial Banking segment of Harborline Financial generate in fiscal 2025?",
+    "answer": "$1.03 billion",
+    "answer_keywords": [
+      "$1.03 billion"
+    ],
+    "gold_sources": [
+      "HBLF_FY2025#segment_results"
+    ]
+  },
+  {
+    "qid": "Q009",
+    "type": "lookup",
+    "question": "How much cash and cash equivalents did Harborline Financial have at the end of fiscal 2025?",
+    "answer": "$830.8 million",
+    "answer_keywords": [
+      "$830.8 million"
+    ],
+    "gold_sources": [
+      "HBLF_FY2025#liquidity"
+    ]
+  },
+  {
+    "qid": "Q010",
+    "type": "lookup",
+    "question": "What revenue growth range did Harborline Financial guide for fiscal 2026?",
+    "answer": "2% to 4%",
+    "answer_keywords": [
+      "2% to 4%"
+    ],
+    "gold_sources": [
+      "HBLF_FY2025#outlook"
+    ]
+  },
+  {
+    "qid": "Q011",
+    "type": "lookup",
+    "question": "How many employees did Harborline Financial have at the end of fiscal 2025?",
+    "answer": "6,887",
+    "answer_keywords": [
+      "6,887"
+    ],
+    "gold_sources": [
+      "HBLF_FY2025#business_overview"
+    ]
+  },
+  {
+    "qid": "Q012",
+    "type": "lookup",
+    "question": "What did Harborline Financial say about catastrophe losses risk in its fiscal 2025 report?",
+    "answer": "catastrophe losses",
+    "answer_keywords": [
+      "catastrophe losses"
+    ],
+    "gold_sources": [
+      "HBLF_FY2025#risk_factors"
+    ]
+  },
+  {
+    "qid": "Q013",
+    "type": "comparison",
+    "question": "Did Harborline Financial's operating margin improve from fiscal 2024 to fiscal 2025?",
+    "answer": "No: 30.4% to 29.1%",
+    "answer_keywords": [
+      "30.4%",
+      "29.1%"
+    ],
+    "gold_sources": [
+      "HBLF_FY2024#management_discussion",
+      "HBLF_FY2025#management_discussion"
+    ]
+  },
+  {
+    "qid": "Q014",
+    "type": "comparison",
+    "question": "Which risk factor did Harborline Financial add in fiscal 2025 that was not in its fiscal 2024 report?",
+    "answer": "competition",
+    "answer_keywords": [
+      "competition"
+    ],
+    "gold_sources": [
+      "HBLF_FY2024#risk_factors",
+      "HBLF_FY2025#risk_factors"
+    ]
+  },
+  {
+    "qid": "Q015",
+    "type": "lookup",
+    "question": "What was NovaPay Technologies' total revenue in fiscal 2024?",
+    "answer": "$1.85 billion",
+    "answer_keywords": [
+      "$1.85 billion"
+    ],
+    "gold_sources": [
+      "NVPY_FY2024#management_discussion"
+    ]
+  },
+  {
+    "qid": "Q016",
+    "type": "lookup",
+    "question": "How much revenue did the Issuer Processing segment of NovaPay Technologies generate in fiscal 2024?",
+    "answer": "$544.0 million",
+    "answer_keywords": [
+      "$544.0 million"
+    ],
+    "gold_sources": [
+      "NVPY_FY2024#segment_results"
+    ]
+  },
+  {
+    "qid": "Q017",
+    "type": "lookup",
+    "question": "How much cash and cash equivalents did NovaPay Technologies have at the end of fiscal 2024?",
+    "answer": "$659.9 million",
+    "answer_keywords": [
+      "$659.9 million"
+    ],
+    "gold_sources": [
+      "NVPY_FY2024#liquidity"
+    ]
+  },
+  {
+    "qid": "Q018",
+    "type": "lookup",
+    "question": "What revenue growth range did NovaPay Technologies guide for fiscal 2025?",
+    "answer": "2% to 4%",
+    "answer_keywords": [
+      "2% to 4%"
+    ],
+    "gold_sources": [
+      "NVPY_FY2024#outlook"
+    ]
+  },
+  {
+    "qid": "Q019",
+    "type": "lookup",
+    "question": "How many employees did NovaPay Technologies have at the end of fiscal 2024?",
+    "answer": "6,383",
+    "answer_keywords": [
+      "6,383"
+    ],
+    "gold_sources": [
+      "NVPY_FY2024#business_overview"
+    ]
+  },
+  {
+    "qid": "Q020",
+    "type": "lookup",
+    "question": "What did NovaPay Technologies say about cybersecurity risk in its fiscal 2024 report?",
+    "answer": "cybersecurity",
+    "answer_keywords": [
+      "cybersecurity"
+    ],
+    "gold_sources": [
+      "NVPY_FY2024#risk_factors"
+    ]
+  },
+  {
+    "qid": "Q021",
+    "type": "lookup",
+    "question": "What was NovaPay Technologies' total revenue in fiscal 2025?",
+    "answer": "$1.95 billion",
+    "answer_keywords": [
+      "$1.95 billion"
+    ],
+    "gold_sources": [
+      "NVPY_FY2025#management_discussion"
+    ]
+  },
+  {
+    "qid": "Q022",
+    "type": "lookup",
+    "question": "How much revenue did the Merchant Services segment of NovaPay Technologies generate in fiscal 2025?",
+    "answer": "$446.8 million",
+    "answer_keywords": [
+      "$446.8 million"
+    ],
+    "gold_sources": [
+      "NVPY_FY2025#segment_results"
+    ]
+  },
+  {
+    "qid": "Q023",
+    "type": "lookup",
+    "question": "How much cash and cash equivalents did NovaPay Technologies have at the end of fiscal 2025?",
+    "answer": "$481.2 million",
+    "answer_keywords": [
+      "$481.2 million"
+    ],
+    "gold_sources": [
+      "NVPY_FY2025#liquidity"
+    ]
+  },
+  {
+    "qid": "Q024",
+    "type": "lookup",
+    "question": "What revenue growth range did NovaPay Technologies guide for fiscal 2026?",
+    "answer": "2% to 4%",
+    "answer_keywords": [
+      "2% to 4%"
+    ],
+    "gold_sources": [
+      "NVPY_FY2025#outlook"
+    ]
+  },
+  {
+    "qid": "Q025",
+    "type": "lookup",
+    "question": "How many employees did NovaPay Technologies have at the end of fiscal 2025?",
+    "answer": "6,462",
+    "answer_keywords": [
+      "6,462"
+    ],
+    "gold_sources": [
+      "NVPY_FY2025#business_overview"
+    ]
+  },
+  {
+    "qid": "Q026",
+    "type": "lookup",
+    "question": "What did NovaPay Technologies say about market volatility risk in its fiscal 2025 report?",
+    "answer": "market volatility",
+    "answer_keywords": [
+      "market volatility"
+    ],
+    "gold_sources": [
+      "NVPY_FY2025#risk_factors"
+    ]
+  },
+  {
+    "qid": "Q027",
+    "type": "comparison",
+    "question": "Did NovaPay Technologies' operating margin improve from fiscal 2024 to fiscal 2025?",
+    "answer": "No: 30.7% to 25.7%",
+    "answer_keywords": [
+      "30.7%",
+      "25.7%"
+    ],
+    "gold_sources": [
+      "NVPY_FY2024#management_discussion",
+      "NVPY_FY2025#management_discussion"
+    ]
+  },
+  {
+    "qid": "Q028",
+    "type": "comparison",
+    "question": "Which risk factor did NovaPay Technologies add in fiscal 2025 that was not in its fiscal 2024 report?",
+    "answer": "talent",
+    "answer_keywords": [
+      "talent"
+    ],
+    "gold_sources": [
+      "NVPY_FY2024#risk_factors",
+      "NVPY_FY2025#risk_factors"
+    ]
+  },
+  {
+    "qid": "Q029",
+    "type": "lookup",
+    "question": "What was Crestview Insurance Group's total revenue in fiscal 2024?",
+    "answer": "$2.98 billion",
+    "answer_keywords": [
+      "$2.98 billion"
+    ],
+    "gold_sources": [
+      "CRVI_FY2024#management_discussion"
+    ]
+  },
+  {
+    "qid": "Q030",
+    "type": "lookup",
+    "question": "How much revenue did the Commercial Lines segment of Crestview Insurance Group generate in fiscal 2024?",
+    "answer": "$1.31 billion",
+    "answer_keywords": [
+      "$1.31 billion"
+    ],
+    "gold_sources": [
+      "CRVI_FY2024#segment_results"
+    ]
+  },
+  {
+    "qid": "Q031",
+    "type": "lookup",
+    "question": "How much cash and cash equivalents did Crestview Insurance Group have at the end of fiscal 2024?",
+    "answer": "$1.04 billion",
+    "answer_keywords": [
+      "$1.04 billion"
+    ],
+    "gold_sources": [
+      "CRVI_FY2024#liquidity"
+    ]
+  },
+  {
+    "qid": "Q032",
+    "type": "lookup",
+    "question": "What revenue growth range did Crestview Insurance Group guide for fiscal 2025?",
+    "answer": "5% to 8%",
+    "answer_keywords": [
+      "5% to 8%"
+    ],
+    "gold_sources": [
+      "CRVI_FY2024#outlook"
+    ]
+  },
+  {
+    "qid": "Q033",
+    "type": "lookup",
+    "question": "How many employees did Crestview Insurance Group have at the end of fiscal 2024?",
+    "answer": "8,233",
+    "answer_keywords": [
+      "8,233"
+    ],
+    "gold_sources": [
+      "CRVI_FY2024#business_overview"
+    ]
+  },
+  {
+    "qid": "Q034",
+    "type": "lookup",
+    "question": "What did Crestview Insurance Group say about interest rates risk in its fiscal 2024 report?",
+    "answer": "interest rates",
+    "answer_keywords": [
+      "interest rates"
+    ],
+    "gold_sources": [
+      "CRVI_FY2024#risk_factors"
+    ]
+  },
+  {
+    "qid": "Q035",
+    "type": "lookup",
+    "question": "What was Crestview Insurance Group's total revenue in fiscal 2025?",
+    "answer": "$2.91 billion",
+    "answer_keywords": [
+      "$2.91 billion"
+    ],
+    "gold_sources": [
+      "CRVI_FY2025#management_discussion"
+    ]
+  },
+  {
+    "qid": "Q036",
+    "type": "lookup",
+    "question": "How much revenue did the Personal Lines segment of Crestview Insurance Group generate in fiscal 2025?",
+    "answer": "$1.41 billion",
+    "answer_keywords": [
+      "$1.41 billion"
+    ],
+    "gold_sources": [
+      "CRVI_FY2025#segment_results"
+    ]
+  },
+  {
+    "qid": "Q037",
+    "type": "lookup",
+    "question": "How much cash and cash equivalents did Crestview Insurance Group have at the end of fiscal 2025?",
+    "answer": "$1.46 billion",
+    "answer_keywords": [
+      "$1.46 billion"
+    ],
+    "gold_sources": [
+      "CRVI_FY2025#liquidity"
+    ]
+  },
+  {
+    "qid": "Q038",
+    "type": "lookup",
+    "question": "What revenue growth range did Crestview Insurance Group guide for fiscal 2026?",
+    "answer": "3% to 5%",
+    "answer_keywords": [
+      "3% to 5%"
+    ],
+    "gold_sources": [
+      "CRVI_FY2025#outlook"
+    ]
+  },
+  {
+    "qid": "Q039",
+    "type": "lookup",
+    "question": "How many employees did Crestview Insurance Group have at the end of fiscal 2025?",
+    "answer": "8,861",
+    "answer_keywords": [
+      "8,861"
+    ],
+    "gold_sources": [
+      "CRVI_FY2025#business_overview"
+    ]
+  },
+  {
+    "qid": "Q040",
+    "type": "lookup",
+    "question": "What did Crestview Insurance Group say about regulation risk in its fiscal 2025 report?",
+    "answer": "regulation",
+    "answer_keywords": [
+      "regulation"
+    ],
+    "gold_sources": [
+      "CRVI_FY2025#risk_factors"
+    ]
+  },
+  {
+    "qid": "Q041",
+    "type": "comparison",
+    "question": "Did Crestview Insurance Group's operating margin improve from fiscal 2024 to fiscal 2025?",
+    "answer": "No: 11.8% to 7.8%",
+    "answer_keywords": [
+      "11.8%",
+      "7.8%"
+    ],
+    "gold_sources": [
+      "CRVI_FY2024#management_discussion",
+      "CRVI_FY2025#management_discussion"
+    ]
+  },
+  {
+    "qid": "Q042",
+    "type": "comparison",
+    "question": "Which risk factor did Crestview Insurance Group add in fiscal 2025 that was not in its fiscal 2024 report?",
+    "answer": "cybersecurity",
+    "answer_keywords": [
+      "cybersecurity"
+    ],
+    "gold_sources": [
+      "CRVI_FY2024#risk_factors",
+      "CRVI_FY2025#risk_factors"
+    ]
+  },
+  {
+    "qid": "Q043",
+    "type": "lookup",
+    "question": "What was Summit Ledger Software's total revenue in fiscal 2024?",
+    "answer": "$677.9 million",
+    "answer_keywords": [
+      "$677.9 million"
+    ],
+    "gold_sources": [
+      "SMLG_FY2024#management_discussion"
+    ]
+  },
+  {
+    "qid": "Q044",
+    "type": "lookup",
+    "question": "How much revenue did the Professional Services segment of Summit Ledger Software generate in fiscal 2024?",
+    "answer": "$376.1 million",
+    "answer_keywords": [
+      "$376.1 million"
+    ],
+    "gold_sources": [
+      "SMLG_FY2024#segment_results"
+    ]
+  },
+  {
+    "qid": "Q045",
+    "type": "lookup",
+    "question": "How much cash and cash equivalents did Summit Ledger Software have at the end of fiscal 2024?",
+    "answer": "$202.3 million",
+    "answer_keywords": [
+      "$202.3 million"
+    ],
+    "gold_sources": [
+      "SMLG_FY2024#liquidity"
+    ]
+  },
+  {
+    "qid": "Q046",
+    "type": "lookup",
+    "question": "What revenue growth range did Summit Ledger Software guide for fiscal 2025?",
+    "answer": "5% to 9%",
+    "answer_keywords": [
+      "5% to 9%"
+    ],
+    "gold_sources": [
+      "SMLG_FY2024#outlook"
+    ]
+  },
+  {
+    "qid": "Q047",
+    "type": "lookup",
+    "question": "How many employees did Summit Ledger Software have at the end of fiscal 2024?",
+    "answer": "2,194",
+    "answer_keywords": [
+      "2,194"
+    ],
+    "gold_sources": [
+      "SMLG_FY2024#business_overview"
+    ]
+  },
+  {
+    "qid": "Q048",
+    "type": "lookup",
+    "question": "What did Summit Ledger Software say about competition risk in its fiscal 2024 report?",
+    "answer": "competition",
+    "answer_keywords": [
+      "competition"
+    ],
+    "gold_sources": [
+      "SMLG_FY2024#risk_factors"
+    ]
+  },
+  {
+    "qid": "Q049",
+    "type": "lookup",
+    "question": "What was Summit Ledger Software's total revenue in fiscal 2025?",
+    "answer": "$776.2 million",
+    "answer_keywords": [
+      "$776.2 million"
+    ],
+    "gold_sources": [
+      "SMLG_FY2025#management_discussion"
+    ]
+  },
+  {
+    "qid": "Q050",
+    "type": "lookup",
+    "question": "How much revenue did the Subscription segment of Summit Ledger Software generate in fiscal 2025?",
+    "answer": "$256.9 million",
+    "answer_keywords": [
+      "$256.9 million"
+    ],
+    "gold_sources": [
+      "SMLG_FY2025#segment_results"
+    ]
+  },
+  {
+    "qid": "Q051",
+    "type": "lookup",
+    "question": "How much cash and cash equivalents did Summit Ledger Software have at the end of fiscal 2025?",
+    "answer": "$389.8 million",
+    "answer_keywords": [
+      "$389.8 million"
+    ],
+    "gold_sources": [
+      "SMLG_FY2025#liquidity"
+    ]
+  },
+  {
+    "qid": "Q052",
+    "type": "lookup",
+    "question": "What revenue growth range did Summit Ledger Software guide for fiscal 2026?",
+    "answer": "4% to 8%",
+    "answer_keywords": [
+      "4% to 8%"
+    ],
+    "gold_sources": [
+      "SMLG_FY2025#outlook"
+    ]
+  },
+  {
+    "qid": "Q053",
+    "type": "lookup",
+    "question": "How many employees did Summit Ledger Software have at the end of fiscal 2025?",
+    "answer": "2,233",
+    "answer_keywords": [
+      "2,233"
+    ],
+    "gold_sources": [
+      "SMLG_FY2025#business_overview"
+    ]
+  },
+  {
+    "qid": "Q054",
+    "type": "lookup",
+    "question": "What did Summit Ledger Software say about regulation risk in its fiscal 2025 report?",
+    "answer": "regulation",
+    "answer_keywords": [
+      "regulation"
+    ],
+    "gold_sources": [
+      "SMLG_FY2025#risk_factors"
+    ]
+  },
+  {
+    "qid": "Q055",
+    "type": "comparison",
+    "question": "Did Summit Ledger Software's operating margin improve from fiscal 2024 to fiscal 2025?",
+    "answer": "No: 31.2% to 30.0%",
+    "answer_keywords": [
+      "31.2%",
+      "30.0%"
+    ],
+    "gold_sources": [
+      "SMLG_FY2024#management_discussion",
+      "SMLG_FY2025#management_discussion"
+    ]
+  },
+  {
+    "qid": "Q056",
+    "type": "comparison",
+    "question": "Which risk factor did Summit Ledger Software add in fiscal 2025 that was not in its fiscal 2024 report?",
+    "answer": "regulation",
+    "answer_keywords": [
+      "regulation"
+    ],
+    "gold_sources": [
+      "SMLG_FY2024#risk_factors",
+      "SMLG_FY2025#risk_factors"
+    ]
+  },
+  {
+    "qid": "Q057",
+    "type": "lookup",
+    "question": "What was Atlas Consumer Lending's total revenue in fiscal 2024?",
+    "answer": "$1.28 billion",
+    "answer_keywords": [
+      "$1.28 billion"
+    ],
+    "gold_sources": [
+      "ATCL_FY2024#management_discussion"
+    ]
+  },
+  {
+    "qid": "Q058",
+    "type": "lookup",
+    "question": "How much revenue did the Auto Finance segment of Atlas Consumer Lending generate in fiscal 2024?",
+    "answer": "$495.3 million",
+    "answer_keywords": [
+      "$495.3 million"
+    ],
+    "gold_sources": [
+      "ATCL_FY2024#segment_results"
+    ]
+  },
+  {
+    "qid": "Q059",
+    "type": "lookup",
+    "question": "How much cash and cash equivalents did Atlas Consumer Lending have at the end of fiscal 2024?",
+    "answer": "$325.5 million",
+    "answer_keywords": [
+      "$325.5 million"
+    ],
+    "gold_sources": [
+      "ATCL_FY2024#liquidity"
+    ]
+  },
+  {
+    "qid": "Q060",
+    "type": "lookup",
+    "question": "What revenue growth range did Atlas Consumer Lending guide for fiscal 2025?",
+    "answer": "3% to 5%",
+    "answer_keywords": [
+      "3% to 5%"
+    ],
+    "gold_sources": [
+      "ATCL_FY2024#outlook"
+    ]
+  },
+  {
+    "qid": "Q061",
+    "type": "lookup",
+    "question": "How many employees did Atlas Consumer Lending have at the end of fiscal 2024?",
+    "answer": "3,629",
+    "answer_keywords": [
+      "3,629"
+    ],
+    "gold_sources": [
+      "ATCL_FY2024#business_overview"
+    ]
+  },
+  {
+    "qid": "Q062",
+    "type": "lookup",
+    "question": "What did Atlas Consumer Lending say about third-party vendors risk in its fiscal 2024 report?",
+    "answer": "third-party vendors",
+    "answer_keywords": [
+      "third-party vendors"
+    ],
+    "gold_sources": [
+      "ATCL_FY2024#risk_factors"
+    ]
+  },
+  {
+    "qid": "Q063",
+    "type": "lookup",
+    "question": "What was Atlas Consumer Lending's total revenue in fiscal 2025?",
+    "answer": "$1.44 billion",
+    "answer_keywords": [
+      "$1.44 billion"
+    ],
+    "gold_sources": [
+      "ATCL_FY2025#management_discussion"
+    ]
+  },
+  {
+    "qid": "Q064",
+    "type": "lookup",
+    "question": "How much revenue did the Credit Cards segment of Atlas Consumer Lending generate in fiscal 2025?",
+    "answer": "$314.4 million",
+    "answer_keywords": [
+      "$314.4 million"
+    ],
+    "gold_sources": [
+      "ATCL_FY2025#segment_results"
+    ]
+  },
+  {
+    "qid": "Q065",
+    "type": "lookup",
+    "question": "How much cash and cash equivalents did Atlas Consumer Lending have at the end of fiscal 2025?",
+    "answer": "$497.9 million",
+    "answer_keywords": [
+      "$497.9 million"
+    ],
+    "gold_sources": [
+      "ATCL_FY2025#liquidity"
+    ]
+  },
+  {
+    "qid": "Q066",
+    "type": "lookup",
+    "question": "What revenue growth range did Atlas Consumer Lending guide for fiscal 2026?",
+    "answer": "5% to 9%",
+    "answer_keywords": [
+      "5% to 9%"
+    ],
+    "gold_sources": [
+      "ATCL_FY2025#outlook"
+    ]
+  },
+  {
+    "qid": "Q067",
+    "type": "lookup",
+    "question": "How many employees did Atlas Consumer Lending have at the end of fiscal 2025?",
+    "answer": "3,503",
+    "answer_keywords": [
+      "3,503"
+    ],
+    "gold_sources": [
+      "ATCL_FY2025#business_overview"
+    ]
+  },
+  {
+    "qid": "Q068",
+    "type": "lookup",
+    "question": "What did Atlas Consumer Lending say about market volatility risk in its fiscal 2025 report?",
+    "answer": "market volatility",
+    "answer_keywords": [
+      "market volatility"
+    ],
+    "gold_sources": [
+      "ATCL_FY2025#risk_factors"
+    ]
+  },
+  {
+    "qid": "Q069",
+    "type": "comparison",
+    "question": "Did Atlas Consumer Lending's operating margin improve from fiscal 2024 to fiscal 2025?",
+    "answer": "No: 24.9% to 22.2%",
+    "answer_keywords": [
+      "24.9%",
+      "22.2%"
+    ],
+    "gold_sources": [
+      "ATCL_FY2024#management_discussion",
+      "ATCL_FY2025#management_discussion"
+    ]
+  },
+  {
+    "qid": "Q070",
+    "type": "comparison",
+    "question": "Which risk factor did Atlas Consumer Lending add in fiscal 2025 that was not in its fiscal 2024 report?",
+    "answer": "market volatility",
+    "answer_keywords": [
+      "market volatility"
+    ],
+    "gold_sources": [
+      "ATCL_FY2024#risk_factors",
+      "ATCL_FY2025#risk_factors"
+    ]
+  },
+  {
+    "qid": "Q071",
+    "type": "lookup",
+    "question": "What was Pinecrest Wealth Partners' total revenue in fiscal 2024?",
+    "answer": "$864.7 million",
+    "answer_keywords": [
+      "$864.7 million"
+    ],
+    "gold_sources": [
+      "PCWP_FY2024#management_discussion"
+    ]
+  },
+  {
+    "qid": "Q072",
+    "type": "lookup",
+    "question": "How much revenue did the Advisory segment of Pinecrest Wealth Partners generate in fiscal 2024?",
+    "answer": "$631.2 million",
+    "answer_keywords": [
+      "$631.2 million"
+    ],
+    "gold_sources": [
+      "PCWP_FY2024#segment_results"
+    ]
+  },
+  {
+    "qid": "Q073",
+    "type": "lookup",
+    "question": "How much cash and cash equivalents did Pinecrest Wealth Partners have at the end of fiscal 2024?",
+    "answer": "$206.2 million",
+    "answer_keywords": [
+      "$206.2 million"
+    ],
+    "gold_sources": [
+      "PCWP_FY2024#liquidity"
+    ]
+  },
+  {
+    "qid": "Q074",
+    "type": "lookup",
+    "question": "What revenue growth range did Pinecrest Wealth Partners guide for fiscal 2025?",
+    "answer": "7% to 9%",
+    "answer_keywords": [
+      "7% to 9%"
+    ],
+    "gold_sources": [
+      "PCWP_FY2024#outlook"
+    ]
+  },
+  {
+    "qid": "Q075",
+    "type": "lookup",
+    "question": "How many employees did Pinecrest Wealth Partners have at the end of fiscal 2024?",
+    "answer": "4,097",
+    "answer_keywords": [
+      "4,097"
+    ],
+    "gold_sources": [
+      "PCWP_FY2024#business_overview"
+    ]
+  },
+  {
+    "qid": "Q076",
+    "type": "lookup",
+    "question": "What did Pinecrest Wealth Partners say about interest rates risk in its fiscal 2024 report?",
+    "answer": "interest rates",
+    "answer_keywords": [
+      "interest rates"
+    ],
+    "gold_sources": [
+      "PCWP_FY2024#risk_factors"
+    ]
+  },
+  {
+    "qid": "Q077",
+    "type": "lookup",
+    "question": "What was Pinecrest Wealth Partners' total revenue in fiscal 2025?",
+    "answer": "$855.0 million",
+    "answer_keywords": [
+      "$855.0 million"
+    ],
+    "gold_sources": [
+      "PCWP_FY2025#management_discussion"
+    ]
+  },
+  {
+    "qid": "Q078",
+    "type": "lookup",
+    "question": "How much revenue did the Asset Management segment of Pinecrest Wealth Partners generate in fiscal 2025?",
+    "answer": "$355.8 million",
+    "answer_keywords": [
+      "$355.8 million"
+    ],
+    "gold_sources": [
+      "PCWP_FY2025#segment_results"
+    ]
+  },
+  {
+    "qid": "Q079",
+    "type": "lookup",
+    "question": "How much cash and cash equivalents did Pinecrest Wealth Partners have at the end of fiscal 2025?",
+    "answer": "$395.4 million",
+    "answer_keywords": [
+      "$395.4 million"
+    ],
+    "gold_sources": [
+      "PCWP_FY2025#liquidity"
+    ]
+  },
+  {
+    "qid": "Q080",
+    "type": "lookup",
+    "question": "What revenue growth range did Pinecrest Wealth Partners guide for fiscal 2026?",
+    "answer": "6% to 10%",
+    "answer_keywords": [
+      "6% to 10%"
+    ],
+    "gold_sources": [
+      "PCWP_FY2025#outlook"
+    ]
+  },
+  {
+    "qid": "Q081",
+    "type": "lookup",
+    "question": "How many employees did Pinecrest Wealth Partners have at the end of fiscal 2025?",
+    "answer": "4,182",
+    "answer_keywords": [
+      "4,182"
+    ],
+    "gold_sources": [
+      "PCWP_FY2025#business_overview"
+    ]
+  },
+  {
+    "qid": "Q082",
+    "type": "lookup",
+    "question": "What did Pinecrest Wealth Partners say about third-party vendors risk in its fiscal 2025 report?",
+    "answer": "third-party vendors",
+    "answer_keywords": [
+      "third-party vendors"
+    ],
+    "gold_sources": [
+      "PCWP_FY2025#risk_factors"
+    ]
+  },
+  {
+    "qid": "Q083",
+    "type": "comparison",
+    "question": "Did Pinecrest Wealth Partners' operating margin improve from fiscal 2024 to fiscal 2025?",
+    "answer": "Yes: 22.2% to 23.2%",
+    "answer_keywords": [
+      "22.2%",
+      "23.2%"
+    ],
+    "gold_sources": [
+      "PCWP_FY2024#management_discussion",
+      "PCWP_FY2025#management_discussion"
+    ]
+  },
+  {
+    "qid": "Q084",
+    "type": "comparison",
+    "question": "Which risk factor did Pinecrest Wealth Partners add in fiscal 2025 that was not in its fiscal 2024 report?",
+    "answer": "cybersecurity",
+    "answer_keywords": [
+      "cybersecurity"
+    ],
+    "gold_sources": [
+      "PCWP_FY2024#risk_factors",
+      "PCWP_FY2025#risk_factors"
+    ]
+  },
+  {
+    "qid": "Q085",
+    "type": "cross_company",
+    "question": "Which company had the highest operating margin in fiscal 2024?",
+    "answer": "Summit Ledger Software",
+    "answer_keywords": [
+      "Summit Ledger Software"
+    ],
+    "gold_sources": [
+      "HBLF_FY2024#management_discussion",
+      "NVPY_FY2024#management_discussion",
+      "CRVI_FY2024#management_discussion",
+      "SMLG_FY2024#management_discussion",
+      "ATCL_FY2024#management_discussion",
+      "PCWP_FY2024#management_discussion"
+    ]
+  },
+  {
+    "qid": "Q086",
+    "type": "cross_company",
+    "question": "Which company had the highest operating margin in fiscal 2025?",
+    "answer": "Summit Ledger Software",
+    "answer_keywords": [
+      "Summit Ledger Software"
+    ],
+    "gold_sources": [
+      "HBLF_FY2025#management_discussion",
+      "NVPY_FY2025#management_discussion",
+      "CRVI_FY2025#management_discussion",
+      "SMLG_FY2025#management_discussion",
+      "ATCL_FY2025#management_discussion",
+      "PCWP_FY2025#management_discussion"
+    ]
+  },
+  {
+    "qid": "Q087",
+    "type": "unanswerable",
+    "question": "What was Harborline Financial's total revenue in fiscal 2019?",
+    "answer": "NOT_IN_CORPUS",
+    "answer_keywords": [
+      "NOT_IN_CORPUS"
+    ],
+    "gold_sources": []
+  },
+  {
+    "qid": "Q088",
+    "type": "unanswerable",
+    "question": "Who is Harborline Financial's independent auditor?",
+    "answer": "NOT_IN_CORPUS",
+    "answer_keywords": [
+      "NOT_IN_CORPUS"
+    ],
+    "gold_sources": []
+  },
+  {
+    "qid": "Q089",
+    "type": "unanswerable",
+    "question": "What was NovaPay Technologies' total revenue in fiscal 2019?",
+    "answer": "NOT_IN_CORPUS",
+    "answer_keywords": [
+      "NOT_IN_CORPUS"
+    ],
+    "gold_sources": []
+  },
+  {
+    "qid": "Q090",
+    "type": "unanswerable",
+    "question": "Who is NovaPay Technologies' independent auditor?",
+    "answer": "NOT_IN_CORPUS",
+    "answer_keywords": [
+      "NOT_IN_CORPUS"
+    ],
+    "gold_sources": []
+  },
+  {
+    "qid": "Q091",
+    "type": "unanswerable",
+    "question": "What was Crestview Insurance Group's total revenue in fiscal 2019?",
+    "answer": "NOT_IN_CORPUS",
+    "answer_keywords": [
+      "NOT_IN_CORPUS"
+    ],
+    "gold_sources": []
+  },
+  {
+    "qid": "Q092",
+    "type": "unanswerable",
+    "question": "Who is Crestview Insurance Group's independent auditor?",
+    "answer": "NOT_IN_CORPUS",
+    "answer_keywords": [
+      "NOT_IN_CORPUS"
+    ],
+    "gold_sources": []
+  },
+  {
+    "qid": "Q093",
+    "type": "unanswerable",
+    "question": "What was Summit Ledger Software's total revenue in fiscal 2019?",
+    "answer": "NOT_IN_CORPUS",
+    "answer_keywords": [
+      "NOT_IN_CORPUS"
+    ],
+    "gold_sources": []
+  },
+  {
+    "qid": "Q094",
+    "type": "unanswerable",
+    "question": "Who is Summit Ledger Software's independent auditor?",
+    "answer": "NOT_IN_CORPUS",
+    "answer_keywords": [
+      "NOT_IN_CORPUS"
+    ],
+    "gold_sources": []
+  },
+  {
+    "qid": "Q095",
+    "type": "unanswerable",
+    "question": "What was Atlas Consumer Lending's total revenue in fiscal 2019?",
+    "answer": "NOT_IN_CORPUS",
+    "answer_keywords": [
+      "NOT_IN_CORPUS"
+    ],
+    "gold_sources": []
+  },
+  {
+    "qid": "Q096",
+    "type": "unanswerable",
+    "question": "Who is Atlas Consumer Lending's independent auditor?",
+    "answer": "NOT_IN_CORPUS",
+    "answer_keywords": [
+      "NOT_IN_CORPUS"
+    ],
+    "gold_sources": []
+  },
+  {
+    "qid": "Q097",
+    "type": "unanswerable",
+    "question": "What was Pinecrest Wealth Partners' total revenue in fiscal 2019?",
+    "answer": "NOT_IN_CORPUS",
+    "answer_keywords": [
+      "NOT_IN_CORPUS"
+    ],
+    "gold_sources": []
+  },
+  {
+    "qid": "Q098",
+    "type": "unanswerable",
+    "question": "Who is Pinecrest Wealth Partners' independent auditor?",
+    "answer": "NOT_IN_CORPUS",
+    "answer_keywords": [
+      "NOT_IN_CORPUS"
+    ],
+    "gold_sources": []
+  }
+]
